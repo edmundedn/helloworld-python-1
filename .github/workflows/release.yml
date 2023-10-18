@@ -93,3 +93,5 @@ jobs:
         asset_path: ./content.zip
         asset_name: ${{ env.RELEASE_VERSION }}.zip
         asset_content_type: applications/zip
+
+        # Haha
